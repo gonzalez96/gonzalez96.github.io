@@ -1,0 +1,63 @@
+h1  {
+    color: black;
+    font-size: 30px;
+    font-family: : monospace;
+
+}
+
+p {
+    color: black;
+}
+
+body {background-color: #FFFFE0;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#menubar {
+    width: 1900px;
+    height: 50px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    background-color: black;
+    border-radius: 8px;
+}
+
+#menubar li { 
+display: inline; 
+padding: 20px; 
+}
+#menubar a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 8px 8px 8px;
+}
+#menubar a:hover {
+    color: white;
+    background-color: black;
+}
+ul {
+    color:black;
+    font-size: 20px;
+    width: 300px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.phone {
+    background-color: 	#FF8C00;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
